@@ -1,0 +1,201 @@
+Date,Description,Amount,Category
+2024-01-01,Electricity bill,437.09,Utilities
+2024-01-02,Petrol refuel,955.64,Transport
+2024-01-03,Taxi fare,758.79,Transport
+2024-01-04,Shopping at Myntra,638.79,Shopping
+2024-01-05,Coffee at Cafe Coffee Day,240.42,Food
+2024-01-06,Groceries at Big Bazaar,240.4,Food
+2024-01-07,Shopping at Myntra,152.28,Shopping
+2024-01-08,Petrol refuel,879.56,Transport
+2024-01-09,Online shopping at Amazon,641.0,Shopping
+2024-01-10,Shopping at Myntra,737.27,Shopping
+2024-01-11,Coffee at Cafe Coffee Day,118.53,Food
+2024-01-12,Mobile recharge,972.92,Utilities
+2024-01-13,Coffee at Cafe Coffee Day,849.2,Food
+2024-01-14,Movie tickets at PVR,291.11,Entertainment
+2024-01-15,Local train ticket,263.64,Transport
+2024-01-16,Gym membership,265.06,Fitness
+2024-01-17,Fast food at McDonald's,373.82,Food
+2024-01-18,Dinner at Swiggy,572.28,Food
+2024-01-19,Monthly broadband bill,488.75,Utilities
+2024-01-20,Coffee at Cafe Coffee Day,362.11,Food
+2024-01-21,Gym membership,650.67,Fitness
+2024-01-22,Book purchase,225.54,Shopping
+2024-01-23,Gym membership,362.93,Fitness
+2024-01-24,Mobile recharge,429.73,Utilities
+2024-01-25,Monthly broadband bill,510.46,Utilities
+2024-01-26,Book purchase,806.66,Shopping
+2024-01-27,Fast food at McDonald's,279.71,Food
+2024-01-28,Lunch at Zomato,562.81,Food
+2024-01-29,Creatine supplement,633.17,Fitness
+2024-01-30,Lunch at Zomato,141.81,Food
+2024-01-31,Movie tickets at PVR,646.79,Entertainment
+2024-02-01,Mobile recharge,253.47,Utilities
+2024-02-02,Shopping at Myntra,158.55,Shopping
+2024-02-03,Dinner at Swiggy,954.0,Food
+2024-02-04,Coffee at Cafe Coffee Day,969.07,Food
+2024-02-05,Online shopping at Amazon,827.56,Shopping
+2024-02-06,Taxi fare,374.15,Transport
+2024-02-07,Online shopping at Amazon,187.9,Shopping
+2024-02-08,Lunch at Zomato,715.81,Food
+2024-02-09,Local train ticket,496.14,Transport
+2024-02-10,Online shopping at Amazon,209.83,Shopping
+2024-02-11,Shopping at Myntra,545.66,Shopping
+2024-02-12,Creatine supplement,130.95,Fitness
+2024-02-13,Petrol refuel,918.39,Transport
+2024-02-14,Creatine supplement,332.9,Fitness
+2024-02-15,Protein whey,696.27,Fitness
+2024-02-16,Protein whey,380.54,Fitness
+2024-02-17,Gym membership,568.06,Fitness
+2024-02-18,Petrol refuel,592.04,Transport
+2024-02-19,Book purchase,266.37,Shopping
+2024-02-20,Lazypay transaction,972.63,Finance
+2024-02-21,Online shopping at Amazon,797.62,Shopping
+2024-02-22,Gym membership,945.55,Fitness
+2024-02-23,Book purchase,905.34,Shopping
+2024-02-24,Mobile recharge,638.11,Utilities
+2024-02-25,Fast food at McDonald's,929.69,Food
+2024-02-26,Groceries at Big Bazaar,179.64,Food
+2024-02-27,Petrol refuel,276.38,Transport
+2024-02-28,Online shopping at Amazon,140.7,Shopping
+2024-02-29,Gym membership,392.8,Fitness
+2024-03-01,Online shopping at Amazon,449.81,Shopping
+2024-03-02,Creatine supplement,344.21,Fitness
+2024-03-03,Lazypay transaction,845.86,Finance
+2024-03-04,Fast food at McDonald's,421.08,Food
+2024-03-05,Monthly broadband bill,352.84,Utilities
+2024-03-06,Book purchase,588.43,Shopping
+2024-03-07,Gym membership,226.83,Fitness
+2024-03-08,Local train ticket,821.98,Transport
+2024-03-09,Gym membership,167.1,Fitness
+2024-03-10,Petrol refuel,988.2,Transport
+2024-03-11,Concert tickets,795.02,Entertainment
+2024-03-12,Gym membership,278.84,Fitness
+2024-03-13,Gym membership,104.97,Fitness
+2024-03-14,Book purchase,833.92,Shopping
+2024-03-15,Online shopping at Amazon,736.17,Shopping
+2024-03-16,Shopping at Myntra,756.11,Shopping
+2024-03-17,Monthly broadband bill,794.14,Utilities
+2024-03-18,Mobile recharge,166.64,Utilities
+2024-03-19,Petrol refuel,422.62,Transport
+2024-03-20,Taxi fare,204.28,Transport
+2024-03-21,Book purchase,876.79,Shopping
+2024-03-22,Protein whey,660.97,Fitness
+2024-03-23,Taxi fare,397.81,Transport
+2024-03-24,Groceries at Big Bazaar,157.2,Food
+2024-03-25,Concert tickets,379.88,Entertainment
+2024-03-26,Taxi fare,392.66,Transport
+2024-03-27,Protein whey,756.65,Fitness
+2024-03-28,Creatine supplement,673.8,Fitness
+2024-03-29,Fast food at McDonald's,898.49,Food
+2024-03-30,Book purchase,524.99,Shopping
+2024-03-31,Taxi fare,207.63,Transport
+2024-04-01,Concert tickets,741.92,Entertainment
+2024-04-02,Fast food at McDonald's,784.71,Food
+2024-04-03,Protein whey,605.15,Fitness
+2024-04-04,Movie tickets at PVR,793.87,Entertainment
+2024-04-05,Local train ticket,544.42,Transport
+2024-04-06,Dinner at Swiggy,570.46,Food
+2024-04-07,Lazypay transaction,484.79,Finance
+2024-04-08,Movie tickets at PVR,122.88,Entertainment
+2024-04-09,Fast food at McDonald's,197.1,Food
+2024-04-10,Gym membership,128.29,Fitness
+2024-04-11,Creatine supplement,672.77,Fitness
+2024-04-12,Shopping at Myntra,382.92,Shopping
+2024-04-13,Coffee at Cafe Coffee Day,557.71,Food
+2024-04-14,Groceries at Big Bazaar,916.81,Food
+2024-04-15,Gym membership,324.36,Fitness
+2024-04-16,Electricity bill,469.34,Utilities
+2024-04-17,Protein whey,780.0,Fitness
+2024-04-18,Online shopping at Amazon,305.92,Shopping
+2024-04-19,Lunch at Zomato,169.28,Food
+2024-04-20,Online shopping at Amazon,360.78,Shopping
+2024-04-21,Concert tickets,245.1,Entertainment
+2024-04-22,Lunch at Zomato,936.73,Food
+2024-04-23,Electricity bill,827.31,Utilities
+2024-04-24,Coffee at Cafe Coffee Day,670.06,Food
+2024-04-25,Lazypay transaction,884.31,Finance
+2024-04-26,Local train ticket,823.3,Transport
+2024-04-27,Gym membership,267.91,Fitness
+2024-04-28,Creatine supplement,903.3,Fitness
+2024-04-29,Lazypay transaction,585.41,Finance
+2024-04-30,Creatine supplement,826.7,Fitness
+2024-05-01,Lazypay transaction,906.48,Finance
+2024-05-02,Creatine supplement,386.2,Fitness
+2024-05-03,Groceries at Big Bazaar,199.05,Food
+2024-05-04,Electricity bill,305.14,Utilities
+2024-05-05,Gym membership,484.4,Fitness
+2024-05-06,Shopping at Myntra,836.21,Shopping
+2024-05-07,Electricity bill,874.66,Utilities
+2024-05-08,Fast food at McDonald's,106.26,Food
+2024-05-09,Creatine supplement,559.67,Fitness
+2024-05-10,Concert tickets,475.67,Entertainment
+2024-05-11,Fast food at McDonald's,299.9,Food
+2024-05-12,Lunch at Zomato,207.88,Food
+2024-05-13,Creatine supplement,403.85,Fitness
+2024-05-14,Monthly broadband bill,948.62,Utilities
+2024-05-15,Coffee at Cafe Coffee Day,390.88,Food
+2024-05-16,Shopping at Myntra,566.91,Shopping
+2024-05-17,Gym membership,732.72,Fitness
+2024-05-18,Lunch at Zomato,427.27,Food
+2024-05-19,Lunch at Zomato,974.6,Food
+2024-05-20,Online shopping at Amazon,966.2,Shopping
+2024-05-21,Movie tickets at PVR,326.6,Entertainment
+2024-05-22,Online shopping at Amazon,547.52,Shopping
+2024-05-23,Lunch at Zomato,370.79,Food
+2024-05-24,Gym membership,356.36,Fitness
+2024-05-25,Online shopping at Amazon,133.2,Shopping
+2024-05-26,Concert tickets,648.61,Entertainment
+2024-05-27,Creatine supplement,552.41,Fitness
+2024-05-28,Movie tickets at PVR,146.33,Entertainment
+2024-05-29,Petrol refuel,350.78,Transport
+2024-05-30,Local train ticket,917.44,Transport
+2024-05-31,Fast food at McDonald's,315.61,Food
+2024-06-01,Protein whey,230.41,Fitness
+2024-06-02,Groceries at Big Bazaar,540.51,Food
+2024-06-03,Fast food at McDonald's,987.09,Food
+2024-06-04,Gym membership,317.85,Fitness
+2024-06-05,Online shopping at Amazon,704.92,Shopping
+2024-06-06,Book purchase,785.46,Shopping
+2024-06-07,Electricity bill,313.87,Utilities
+2024-06-08,Fast food at McDonald's,755.39,Food
+2024-06-09,Monthly broadband bill,431.0,Utilities
+2024-06-10,Movie tickets at PVR,669.08,Entertainment
+2024-06-11,Electricity bill,670.18,Utilities
+2024-06-12,Coffee at Cafe Coffee Day,582.2,Food
+2024-06-13,Monthly broadband bill,181.26,Utilities
+2024-06-14,Movie tickets at PVR,851.77,Entertainment
+2024-06-15,Dinner at Swiggy,388.7,Food
+2024-06-16,Fast food at McDonald's,267.87,Food
+2024-06-17,Lazypay transaction,136.7,Finance
+2024-06-18,Creatine supplement,631.8,Fitness
+2024-06-19,Dinner at Swiggy,709.81,Food
+2024-06-20,Monthly broadband bill,114.93,Utilities
+2024-06-21,Shopping at Myntra,560.88,Shopping
+2024-06-22,Taxi fare,303.85,Transport
+2024-06-23,Fast food at McDonald's,680.66,Food
+2024-06-24,Creatine supplement,256.93,Fitness
+2024-06-25,Petrol refuel,721.84,Transport
+2024-06-26,Electricity bill,448.06,Utilities
+2024-06-27,Movie tickets at PVR,943.06,Entertainment
+2024-06-28,Online shopping at Amazon,223.77,Shopping
+2024-06-29,Gym membership,406.96,Fitness
+2024-06-30,Lazypay transaction,202.13,Finance
+2024-07-01,Taxi fare,932.22,Transport
+2024-07-02,Petrol refuel,889.61,Transport
+2024-07-03,Shopping at Myntra,332.15,Shopping
+2024-07-04,Lunch at Zomato,693.99,Food
+2024-07-05,Creatine supplement,835.5,Fitness
+2024-07-06,Petrol refuel,599.68,Transport
+2024-07-07,Creatine supplement,576.69,Fitness
+2024-07-08,Lazypay transaction,317.67,Finance
+2024-07-09,Movie tickets at PVR,183.79,Entertainment
+2024-07-10,Monthly broadband bill,907.49,Utilities
+2024-07-11,Concert tickets,910.38,Entertainment
+2024-07-12,Online shopping at Amazon,669.79,Shopping
+2024-07-13,Creatine supplement,405.13,Fitness
+2024-07-14,Taxi fare,414.29,Transport
+2024-07-15,Lunch at Zomato,753.36,Food
+2024-07-16,Dinner at Swiggy,907.4,Food
+2024-07-17,Monthly broadband bill,898.38,Utilities
+2024-07-18,Electricity bill,801.89,Utilities
